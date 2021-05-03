@@ -12,16 +12,16 @@ Boiler plate for p5.play
 //Goal of the player -
 
 
-//Rules of the game - 
+//Rules of the game (features, controls, arena) etc - 
 
 
-//Balance in the game - 
+//Balance in the game (what feature makes game easy for player and what features make difficult for player) - 
 
 
-//Game adaptivity - 
+//Game adaptivity (how game becomes difficult over time) - 
 
 
-//Elements of chance -
+//Elements of chance (something happening randomly, by luck) -
 
 
 //Elements of skill -
